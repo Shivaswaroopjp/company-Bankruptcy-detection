@@ -9,8 +9,6 @@ In this project, we have used various classification algorithms varying from Log
 
 ## Execution:
 
-### Dataset: 
-https://www.kaggle.com/c/bike-sharing-demand
 
 ### Data cleaning:
 
