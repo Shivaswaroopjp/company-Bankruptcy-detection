@@ -39,8 +39,3 @@ Coming to our last regressor, Extra trees regressor. As it is the most complex o
 
 Concluding, according to the f1-scores and the Accuracy metrics, CATBoosT is the best metric to choose for further predictions. According to AOC-ROC, Logistic Regression stands first with a score of 0.86 Nevertheless, in this case, the best decision is to use Logistic regression because it can better recognize the minority class even misclassifying some not close to bankruptcy companies as close to bankruptcy.Also, the parameters that contribute to bankruptcy of a company are also external such as decisions taken by the CEO of the company and dwindling workforce and so on, which can neither be calculated nor predicted.
 
-
-## Credits and References:
-  1. https://towardsdatascience.com/end-to-end-case-study-bike-sharing-demand-dataset-53201926c8db
-  2. https://anindya-saha.github.io/blog/machine-learning-with-python/kaggle-bike-sharing-demand/kaggle-bike-sharing-demand.html
-
