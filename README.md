@@ -1,4 +1,4 @@
-# company-Bankruptcy-detection
+# Company-Bankruptcy-detection
 
 
 ## Description:
